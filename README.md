@@ -9,7 +9,7 @@ Welcome to the Project Demos repository! Explore innovative projects that levera
 - [InsightGPT](#insightgpt)
 - [LegalQuery](#legalquery)
 - [VLearn](#vlearn)
-- [AfricanVoice - Speech to Text](#africanvoice-speech-to-text)
+- [AfricanVoice - Speech to Text](#africanvoice)
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to the Project Demos repository! Explore innovative projects that levera
 
 ---
 
-## AfricanVoice[![](https://raw.githubusercontent.com/aonullahi/projectdemos/main/assets/pin.svg)](#africanvoice-speech-to-text)
+## AfricanVoice[![](https://raw.githubusercontent.com/aonullahi/projectdemos/main/assets/pin.svg)](#africanvoice)
 
 AfricanVoice is an API dedicated to simplifying the transcription of spoken names. Harnessing state-of-the-art AI models, specifically Wav2Vec, this tool ensures accurate conversion of spoken names into text format. Tailored for African names, the AI model demonstrates expertise in fine-tuning for low-resourced languages. AfricanVoice streamlines data entry processes, enhancing efficiency, especially in scenarios where accurate transcription of spoken names is crucial.
 
