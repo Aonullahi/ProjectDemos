@@ -33,9 +33,21 @@ Welcome to the Project Demos repository! Explore innovative projects that levera
 
 ---
 
-**Contact me** on<br />
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Aonullahi?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/aonullahi)
-[![Follow me on twitter](https://img.shields.io/twitter/follow/aonullahi_.svg?style=social)](https://twitter.com/intent/follow?screen_name=aonullahi_) 
+## VLearn[![](https://raw.githubusercontent.com/aonullahi/projectdemos/main/assets/pin.svg)](#vlearn)
+
+**VLearn** is an AI-powered education application designed to enhance the learning experience. It offers a range of features including question generation, language translation, memorization assistance, gap filling, and image identification. With VLearn, students can improve their understanding and retention of information through AI-assisted tools. The application is built with Flask for robust backend APIs and Angular for a seamless and intuitive user interface. The AI models utilized include Wav2Vec for speech processing, Vision Transformer for image identification, and DistilBERT for natural language understanding.
+
+<div align="center"><img src="assets/vlearn-demo.gif" alt="Vlearn Demo"/></div>
+
+<div align="right">[ <a href="#table-of-contents">↑ Back to top ↑</a> ]</div>
+
+---
+
+**Contact me on**
+
+<a href="https://www.linkedin.com/in/aonullahi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aonullahi?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44" alt="Connect on LinkedIn"/></a>&nbsp;
+
+<a href="https://twitter.com/intent/follow?screen_name=aonullahi_" target="_blank"><img src="https://img.shields.io/twitter/follow/aonullahi_.svg?style=social" alt="Follow me on twitter"/></a>&nbsp;
 
 ---
 
