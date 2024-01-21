@@ -9,7 +9,7 @@ Welcome to the Project Demos repository! Explore innovative projects that levera
 - [InsightGPT](#insightgpt)
 - [LegalQuery](#legalquery)
 - [VLearn](#vlearn)
-- [Custom Speech to Text](#custom-speech-to-text)
+- [AfricanVoice - Speech to Text](#africanvoice-speech-to-text)
 
 ---
 
@@ -43,12 +43,18 @@ Welcome to the Project Demos repository! Explore innovative projects that levera
 
 ---
 
-**Contact me on**
+## AfricanVoice[![](https://raw.githubusercontent.com/aonullahi/projectdemos/main/assets/pin.svg)](#africanvoice-speech-to-text)
 
-<a href="https://www.linkedin.com/in/aonullahi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aonullahi?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44" alt="Connect on LinkedIn"/></a>&nbsp;
+AfricanVoice is an API dedicated to simplifying the transcription of spoken names. Harnessing state-of-the-art AI models, specifically Wav2Vec, this tool ensures accurate conversion of spoken names into text format. Tailored for African names, the AI model demonstrates expertise in fine-tuning for low-resourced languages. AfricanVoice streamlines data entry processes, enhancing efficiency, especially in scenarios where accurate transcription of spoken names is crucial.
 
-<a href="https://twitter.com/intent/follow?screen_name=aonullahi_" target="_blank"><img src="https://img.shields.io/twitter/follow/aonullahi_.svg?style=social" alt="Follow me on twitter"/></a>&nbsp;
+<div align="center"><img src="assets/africanvoice-demo.gif" alt="AfricanVoice Demo"/></div>
+
+<div align="right">[ <a href="#table-of-contents">↑ Back to top ↑</a> ]</div>
 
 ---
+
+**Contact me on**<br>
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Aonullahi?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/aonullahi)&nbsp;
+[![Follow me on twitter](https://img.shields.io/twitter/follow/aonullahi_.svg?style=social)](https://twitter.com/intent/follow?screen_name=aonullahi_) 
 
 <!-- markdownlint-enable -->
